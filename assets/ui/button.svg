@@ -1,18 +1,1 @@
-<!-- Based on Pixel Art GUI Elements by Mounir Tohami (https://mounirtohami.itch.io/pixel-art-gui-elements) -->
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_23_1043)">
-<rect x="1" y="1" width="14" height="14" fill="#181425"/>
-<rect x="2" width="12" height="16" fill="#181425"/>
-<rect y="2" width="16" height="12" fill="#181425"/>
-<rect x="2" y="13" width="12" height="2" fill="#262B44"/>
-<rect x="1" y="2" width="14" height="11" fill="#3A4466"/>
-<rect x="2" y="1" width="12" height="10" fill="#3A4466"/>
-<rect x="1" y="12" width="1" height="2" fill="#262B44"/>
-<rect x="14" y="12" width="1" height="2" fill="#262B44"/>
-</g>
-<defs>
-<clipPath id="clip0_23_1043">
-<rect width="16" height="16" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16"><g clip-path="url(#clip0_23_1043)"><rect width="14" height="14" x="1" y="1" fill="#181425"/><rect width="12" height="16" x="2" fill="#181425"/><rect width="16" height="12" y="2" fill="#181425"/><rect width="12" height="2" x="2" y="13" fill="#262B44"/><rect width="14" height="11" x="1" y="2" fill="#3A4466"/><rect width="12" height="10" x="2" y="1" fill="#3A4466"/><rect width="1" height="2" x="1" y="12" fill="#262B44"/><rect width="1" height="2" x="14" y="12" fill="#262B44"/></g><defs><clipPath id="clip0_23_1043"><rect width="16" height="16" fill="#fff"/></clipPath></defs></svg>
